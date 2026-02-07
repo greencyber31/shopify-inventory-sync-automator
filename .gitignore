@@ -3,3 +3,6 @@ __pycache__/
 venv/
 *.csv
 sync_results.xlsx
+*.docx
+*.xlsx
+*.pdf
